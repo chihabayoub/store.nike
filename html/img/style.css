@@ -1,0 +1,42 @@
+.footer{
+    background-color: rgb(217, 214, 214);
+}
+
+#contactbutton{
+    max-width:25am;
+}
+
+#btnSubmit{
+    appearance: none;
+    border: none;
+    background-color: rgb(0, 182, 46);
+    padding: 0,25rem 0,5;
+    color: white;
+    border-radius: 5px;
+    transition: all 250ms ease;
+}
+
+width: 200%;
+object-fit: contain;
+max-height: 200px;
+margin-right: 20px;
+transition: transform 450ms;
+
+.banner__description {
+    width: 45rem;
+    line-height: 1.3;
+    padding-top: 1rem;
+    font-size: 0.8rem;
+    max-width: 360px;
+    height: 180px;
+  }
+
+  .form-group {
+    appearance: none;
+    border: none;
+    background-color: rgb(0, 182, 46);
+    padding: 0,25rem 0,5;
+    color: white;
+    border-radius: 5px;
+    transition: all 250ms ease;
+  }
